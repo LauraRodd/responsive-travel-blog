@@ -7,3 +7,5 @@ A multipage travel blog built to practice and improve my Responsive Web Design s
 - HTML
 - CSS -media queries-
 - VSCode
+
+## View [Live](https://laurarodd.github.io/responsive-travel-blog/)
